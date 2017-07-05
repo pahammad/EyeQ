@@ -25,6 +25,6 @@ We hope to create an open-source benchmark for assessing image quality that can 
 
 <b>EyeQ / Team</b>:
 
-Jiawen Zhou - Data Scientist @ Instart Logic
-Parvez Ahammad - Head of Data Science & Machine Learning @ Instart Logic
-Prasenjit Dey - Software Engineer @ Instart Logic
+Jiawen Zhou - Data Scientist @ Instart Logic <br>
+Parvez Ahammad - Head of Data Science & Machine Learning @ Instart Logic<br>
+Prasenjit Dey - Software Engineer @ Instart Logic<br>
