@@ -19,10 +19,12 @@ Even though image quality assessment (IQA) is a well-researched field, current s
 Most importantly, traditional IQA metrics are used to measure image similarity, while in the context of web image delivery, finding the right balance between perceptual quality and image file sizes is a more relevant problem. 
 EyeQ is a crowd-sourcing web application aiming to collect data that would help study web image delivery problem. EyeQ works in Chrome, Firefox and Safari on both mobile and PC platforms. Use of various devices is encouraged.
 
-<b>What is the goal of EyeQ?</b>:
+<b>EyeQ / Goal</b>:
+
 We hope to create an open-source benchmark for assessing image quality that can help improve image delivery on modern web. Our data is going to help researchers understand factors associated with web image delivery that might affect image perceptual quality for end-users.
 
-<b>EyeQ / Team </b>:
+<b>EyeQ / Team</b>:
+
 Jiawen Zhou - Data Scientist @ Instart Logic
 Parvez Ahammad - Head of Data Science & Machine Learning @ Instart Logic
 Prasenjit Dey - Software Engineer @ Instart Logic
