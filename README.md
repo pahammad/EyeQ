@@ -11,6 +11,9 @@ EyeQ 2.0 is live now. URL for the challenge: www.eyeqchallenge.org
 
 * EyeQ 2.0 uses graphicsmagick for progressive compression. URL for graphicsmagick: www.graphicsmagick.org/
 
+<b>EyeQ 1.0</b>: 
+
+Our paper summarizing key results from EyeQ 1.0 study has been accepted into 4th IEEE International Workshop on Mobile Multimedia Computing (MMC 2017). Final paper will be made public soon.
 
 <b>What is EyeQ?</b>:
 
