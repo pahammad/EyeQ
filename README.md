@@ -1,6 +1,10 @@
 # EyeQ
 <b>EyeQ / Latest Updates</b>: 
 
+<b>EyeQ 1.0 overview and a few key insights</b>: 
+
+Our paper summarizing key results from EyeQ 1.0 study was accepted into 4th IEEE International Workshop on Mobile Multimedia Computing (MMC 2017). URL for the paper with analysis/insights: http://ieeexplore.ieee.org/abstract/document/8026275/
+
 EyeQ 2.0 is live now. URL for the challenge: www.eyeqchallenge.org
 
 * EyeQ 2.0 includes both no-reference and full-reference modes. Full-reference mode means that both the original and distorted images are available. No-reference mode means that only the distorted images are available.
@@ -10,11 +14,6 @@ EyeQ 2.0 is live now. URL for the challenge: www.eyeqchallenge.org
 * EyeQ 2.0 tracks more information, such as time-to-respond, image display size on the client side, device information, etc.
 
 * EyeQ 2.0 uses graphicsmagick for progressive compression. URL for graphicsmagick: www.graphicsmagick.org/
-
-<b>EyeQ 1.0</b>: 
-
-Our paper summarizing key results from EyeQ 1.0 study has been accepted into 4th IEEE International Workshop on Mobile Multimedia Computing (MMC 2017). Final paper will be made public soon.
-
 <b>What is EyeQ?</b>:
 
 Images are a huge factor in web user experience. Human perception of image quality is known to be subjective and varies with factors such as devices and image contents. 
